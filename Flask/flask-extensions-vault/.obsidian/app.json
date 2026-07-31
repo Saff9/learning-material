@@ -1,0 +1,12 @@
+{
+  "theme": "obsidian",
+  "newFileFolderPath": "01-Introduction",
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "attachments",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "showInlineTitle": true,
+  "showLineNumber": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": true
+}
