@@ -57,6 +57,16 @@ Four cross-cutting reference notes sit alongside this MOC and cut across every t
 
 ---
 
+## 00 · First Principles
+
+Before diving into Flask, it helps to understand web frameworks from the ground up. This handbook rebuilds Flask from scratch using raw Python sockets.
+
+| Note | What it covers |
+|---|---|
+| [[00-Flask-First-Principles-From-Scratch]] | Building a web server from scratch, HTTP, routing, WSGI, templating, and migrating to Flask |
+
+---
+
 ## 01 · Introduction
 
 The bedrock notes. Read these before anything else if you're new to Flask. The Introduction section exists to give you the mental model — what Flask is, why it's designed the way it is, how to lay out a project, and how to install everything correctly. Skipping these notes and jumping straight to a specific extension is the most common way to end up with a tangled, unmaintainable codebase. Spend the time here; it pays off in every other section.

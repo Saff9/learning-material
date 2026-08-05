@@ -529,6 +529,7 @@ Visit `http://127.0.0.1:5000/`. You now have the foundation for every extension 
 
 ## Next Steps
 
+- [[00-Flask-First-Principles-From-Scratch]] — build a web framework from scratch to understand how Flask works under the hood.
 - [[Project-Structure]] — how to lay out a real Flask app as it grows.
 - [[Installation-Guide]] — virtualenvs, `requirements.txt`, Docker.
 - [[Flask-SQLAlchemy]] — your first database.

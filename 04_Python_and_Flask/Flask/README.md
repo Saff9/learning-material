@@ -48,6 +48,7 @@ Flask-Master-Handbook/
 ├── ROADMAP.md                # Learning path from beginner to advanced
 ├── GLOSSARY.md               # Definitions of all technical terms
 │
+├── 00-Flask-First-Principles-From-Scratch.md # First Principles Handbook
 ├── 00-Foundations/           # How the internet works
 ├── 01-Flask-Core/            # Flask framework fundamentals
 ├── 02-Jinja2/                # Template engine deep dive
@@ -81,6 +82,7 @@ This handbook follows three principles:
 
 | Chapter | Topics | Difficulty |
 |---------|--------|------------|
+| [[00-Flask-First-Principles-From-Scratch]] | Web servers, HTTP, WSGI, Framework internals | Beginner |
 | [[00-Foundations]] | Internet, HTTP, TCP/IP, DNS, REST, JSON | Beginner |
 | [[01-Flask-Core]] | Routing, Requests, Responses, Context, Config | Beginner |
 | [[02-Jinja2]] | Templates, Inheritance, Filters, Macros | Beginner |
