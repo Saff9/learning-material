@@ -32,7 +32,6 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
-      slugify: !!python/name:md_slugs.slugify
   - pymdownx.highlight
   - pymdownx.superfences
   - pymdownx.inlinehilite

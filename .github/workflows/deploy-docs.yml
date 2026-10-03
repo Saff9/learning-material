@@ -33,7 +33,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Build docs
-        run: PYTHONPATH=. mkdocs build --strict
+        run: mkdocs build --strict
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

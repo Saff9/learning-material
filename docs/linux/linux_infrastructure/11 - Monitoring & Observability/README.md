@@ -840,7 +840,7 @@ Can you confidently execute and explain all of the following core competencies?
 
 ## 12. Next Steps & Related Modules
 
-- **Next Module:** Continue with cloud foundations, CI/CD, and IaC pipelines in the later infrastructure modules.
+- **Next Module:** Proceed to [12 - Projects & DevOps Integration](../12%20-%20Projects%20%26%20DevOps%20Integration/README.md) to integrate monitoring with CI/CD and IaC pipelines.
 - **Related Fundamentals:**
   - [04 - System Services](../04%20-%20System%20Services/README.md) — Systemd unit management and `journalctl` logging.
   - [07 - Networking](../07%20-%20Networking/README.md) — Network interface metrics, sockets, and port monitoring.
