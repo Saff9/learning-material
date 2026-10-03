@@ -42,12 +42,3 @@ markdown_extensions:
 
 plugins:
   - search
-
-nav:
-  - Home: index.md
-  - Mentorship: mentorship/index.md
-  - Linux & Systems: linux/index.md
-  - PostgreSQL & Databases: databases/index.md
-  - C & Low Level: c/index.md
-  - Python & Flask: python/index.md
-  - Computer Science & OOP: cs/index.md
