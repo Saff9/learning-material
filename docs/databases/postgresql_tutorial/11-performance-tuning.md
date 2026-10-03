@@ -429,4 +429,4 @@ SELECT COUNT(*) FROM large_table;
 | **Configuration Tuning** | Optimize memory and I/O |
 
 ---
-*Previous: [10 - Views & Materialized Views](10-views-materialized-views.md) | Next: [12 - Backup & Recovery](12-backup-recovery.md)*
+*Previous: [10 - Views & Materialized Views](10-views-materialized-views.md) | Next: [12 - Deep Concepts: ACID & MVCC](12-deep-concepts-acid-mvcc.md)*
