@@ -26,7 +26,7 @@ updated: 2025-01-15
 #oop #vault #moc #index #navigation #teaching
 
 > [!info] You are here
-> This is the **master index** of the OOP Knowledge Base. Every note in every section is listed below, with a one-line description. If you are lost, come back here. If you are looking for something specific, search this page (`Ctrl+F`). If you want a curated path, jump to [§15 Learning Paths](#15-learning-paths).
+> This is the **master index** of the OOP Knowledge Base. Every note in every section is listed below, with a one-line description. If you are lost, come back here. If you are looking for something specific, search this page (`Ctrl+F`). If you want a curated path, jump to [§15 Learning Paths](#16-learning-paths).
 
 ---
 

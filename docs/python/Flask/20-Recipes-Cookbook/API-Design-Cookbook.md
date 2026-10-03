@@ -49,7 +49,7 @@ updated: 2024-01-15
 | 10 | [Bulk operations](#recipe-10-bulk-operations) | Throughput | Medium |
 | 11 | [RFC 9457 Problem Details](#recipe-11-rfc-9457-problem-details) | Errors | Low |
 | 12 | [HATEOAS links](#recipe-12-hateoas-links) | Discoverability | Medium |
-| 13 | [ETag / conditional requests](#recipe-13-etag--conditional-requests) | Caching | Medium |
+| 13 | [ETag / conditional requests](#recipe-13-etag-conditional-requests) | Caching | Medium |
 | 14 | [GraphQL vs REST decision](#recipe-14-graphql-vs-rest-decision) | Architecture | High |
 
 ---

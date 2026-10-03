@@ -5,16 +5,16 @@
 ---
 
 ## 📋 Table of Contents
-1. [Architecture Overview & Core Mechanics](#1-architecture-overview--core-mechanics)
+1. [Architecture Overview & Core Mechanics](#1-architecture-overview-core-mechanics)
 2. [Linux File System Hierarchy Standard (FHS 3.0)](#2-linux-file-system-hierarchy-standard-fhs-30)
-3. [Command Line Foundations & Advanced Navigation](#3-command-line-foundations--advanced-navigation)
-4. [Linux Permissions & Access Control Model (POSIX)](#4-linux-permissions--access-control-model-posix)
-5. [Environment Variables, Shell Expansion & Process Execution](#5-environment-variables-shell-expansion--process-execution)
-6. [Streams, Redirection & Pipelines (I/O Subsystem)](#6-streams-redirection--pipelines-io-subsystem)
-7. [Production Toolkit: Core Utilities & Data Processing](#7-production-toolkit-core-utilities--data-processing)
-8. [System Administration Troubleshooting & Diagnostics Matrix](#8-system-administration-troubleshooting--diagnostics-matrix)
+3. [Command Line Foundations & Advanced Navigation](#3-command-line-foundations-advanced-navigation)
+4. [Linux Permissions & Access Control Model (POSIX)](#4-linux-permissions-access-control-model-posix)
+5. [Environment Variables, Shell Expansion & Process Execution](#5-environment-variables-shell-expansion-process-execution)
+6. [Streams, Redirection & Pipelines (I/O Subsystem)](#6-streams-redirection-pipelines-io-subsystem)
+7. [Production Toolkit: Core Utilities & Data Processing](#7-production-toolkit-core-utilities-data-processing)
+8. [System Administration Troubleshooting & Diagnostics Matrix](#8-system-administration-troubleshooting-diagnostics-matrix)
 9. [Enterprise Hands-On Lab Exercises](#9-enterprise-hands-on-lab-exercises)
-10. [Self-Check Verification & Skills Matrix](#10-self-check-verification--skills-matrix)
+10. [Self-Check Verification & Skills Matrix](#10-self-check-verification-skills-matrix)
 
 ---
 

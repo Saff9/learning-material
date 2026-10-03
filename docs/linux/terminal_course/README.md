@@ -10,18 +10,18 @@ This course is organized into 12 modules, each building on the previous one:
 
 | Module | Topic | Description |
 |--------|-------|-------------|
-| [01 - Getting Started](01-getting-started/) | Introduction to the terminal | What is a terminal, opening it, first commands |
-| [02 - Navigation](02-navigation/) | File system navigation | `pwd`, `ls`, `cd`, directory structure |
-| [03 - File Management](03-file-management/) | Working with files | `touch`, `cat`, `cp`, `mv`, `rm`, wildcards |
-| [04 - Text Editing](04-text-editing/) | Terminal text editors | `nano` and `vim` basics |
-| [05 - Permissions](05-permissions/) | File permissions | `chmod`, `chown`, permission strings |
-| [06 - Processes](06-processes/) | Process management | `ps`, `top`, `kill`, background jobs |
-| [07 - Pipes & Redirection](07-pipes-redirection/) | Data flow | `>`, `>>`, `|`, command chaining |
-| [08 - Searching](08-searching/) | Finding things | `find`, `grep`, `locate`, `awk`, `sed` |
-| [09 - Networking](09-networking/) | Network commands | `ping`, `curl`, `ssh`, `ss` |
-| [10 - Scripting](10-scripting/) | Shell scripting | Variables, loops, functions, scripts |
-| [11 - Advanced Topics](11-advanced/) | Power user skills | Aliases, dotfiles, `tmux`, package management |
-| [12 - Projects](12-projects/) | Real-world projects | System dashboard, backup, file organizer, and more |
+| [01 - Getting Started](01-getting-started/README.md) | Introduction to the terminal | What is a terminal, opening it, first commands |
+| [02 - Navigation](02-navigation/README.md) | File system navigation | `pwd`, `ls`, `cd`, directory structure |
+| [03 - File Management](03-file-management/README.md) | Working with files | `touch`, `cat`, `cp`, `mv`, `rm`, wildcards |
+| [04 - Text Editing](04-text-editing/README.md) | Terminal text editors | `nano` and `vim` basics |
+| [05 - Permissions](05-permissions/README.md) | File permissions | `chmod`, `chown`, permission strings |
+| [06 - Processes](06-processes/README.md) | Process management | `ps`, `top`, `kill`, background jobs |
+| [07 - Pipes & Redirection](07-pipes-redirection/README.md) | Data flow | `>`, `>>`, `|`, command chaining |
+| [08 - Searching](08-searching/README.md) | Finding things | `find`, `grep`, `locate`, `awk`, `sed` |
+| [09 - Networking](09-networking/README.md) | Network commands | `ping`, `curl`, `ssh`, `ss` |
+| [10 - Scripting](10-scripting/README.md) | Shell scripting | Variables, loops, functions, scripts |
+| [11 - Advanced Topics](11-advanced/README.md) | Power user skills | Aliases, dotfiles, `tmux`, package management |
+| [12 - Projects](12-projects/README.md) | Real-world projects | System dashboard, backup, file organizer, and more |
 
 ### 📋 Cheatsheets
 

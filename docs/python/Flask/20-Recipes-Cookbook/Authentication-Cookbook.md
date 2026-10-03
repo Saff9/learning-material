@@ -48,7 +48,7 @@ updated: 2024-01-15
 | 6 | [TOTP multi-factor auth](#recipe-6-totp-multi-factor-auth) | High-value accounts | Session + OTP | Medium |
 | 7 | [Magic link (passwordless)](#recipe-7-magic-link-passwordless-login) | Consumer SaaS, marketing sites | One-time token | Medium |
 | 8 | [SSO with OIDC](#recipe-8-sso-with-oidc) | Enterprise, Okta/Keycloak | Hybrid | High |
-| 9 | [Combined session + JWT](#recipe-9-combined-session--jwt-web--api) | Apps with both UI and API | Both | Medium |
+| 9 | [Combined session + JWT](#recipe-9-combined-session-jwt-web-api) | Apps with both UI and API | Both | Medium |
 | 10 | [Role-based access with Flask-Principal](#recipe-10-role-based-access-with-flask-principal) | Fine-grained permissions | Any | Medium |
 
 ---

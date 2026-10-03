@@ -7,10 +7,10 @@ Welcome to your complete, step-by-step Flask masterclass. This guide is written 
 ## 📌 Table of Contents
 1. [Module 1: The First 5 Lines of Flask (Line-by-Line Breakdown)](#module-1-the-first-5-lines-of-flask-line-by-line-breakdown)
 2. [Module 2: Demystifying Core Flask Imports](#module-2-demystifying-core-flask-imports)
-3. [Module 3: Under the Hood — Request Lifecycle & WSGI Contexts](#module-3-under-the-hood--request-lifecycle--wsgi-contexts)
-4. [Module 4: Scaling Up — Application Factory & Blueprints](#module-4-scaling-up--application-factory--blueprints)
-5. [Module 5: Database Persistence — Modern SQLAlchemy 2.0](#module-5-database-persistence--modern-sqlalchemy-20)
-6. [Module 6: Security & Authentication](#module-6-security--authentication)
+3. [Module 3: Under the Hood — Request Lifecycle & WSGI Contexts](#module-3-under-the-hood-request-lifecycle-wsgi-contexts)
+4. [Module 4: Scaling Up — Application Factory & Blueprints](#module-4-scaling-up-application-factory-blueprints)
+5. [Module 5: Database Persistence — Modern SQLAlchemy 2.0](#module-5-database-persistence-modern-sqlalchemy-20)
+6. [Module 6: Security & Authentication](#module-6-security-authentication)
 7. [Module 7: Production Deployment Architecture](#module-7-production-deployment-architecture)
 
 ---
