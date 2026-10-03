@@ -1,5 +1,8 @@
 # Mentorship Logs
 
-This section includes my mentorship notes and learning progress.
+Browse all notes locally. No GitHub required.
 
-[Open folder in GitHub](https://github.com/Saff9/learning-material/tree/main/00_Mentorship_Logs)
+## Top-level notes
+
+- [LINUX + POSTGRES.](LINUX + POSTGRES..md)
+

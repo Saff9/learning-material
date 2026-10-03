@@ -1,8 +1,6 @@
 site_name: Learning Material
 site_description: All notes and learning resources
 site_author: Saff9
-repo_url: https://github.com/Saff9/learning-material
-edit_uri: edit/main/docs/
 
 theme:
   name: material
